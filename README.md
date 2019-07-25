@@ -6,7 +6,7 @@ Courtesy and Reference: [Fee Code Camp ->Node Package, Publish](https://www.free
 
 Removes all spaces from a string.
 
-## IDE,toosl:-
+## IDE,tools:-
 
 Node.js CLI, VS Code.
 
