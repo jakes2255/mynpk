@@ -12,14 +12,14 @@ Removes all spaces from a string.
 
 ## Usage
 
-const tiny = require("@jakes2255/mynpk");
-mynpk("So much space!");//=> "Somuchspace!"
+const mynpk = require("@jakes2255/mynpk");<br/>
+mynpk("So much space!");//=> "Somuchspace!"<br/><br/>
 
-mynpk(1337);
-//=> Uncaught TypeError: Please enter a string!
-//    at mynpk (<anonymous>:2:41)
-//    at <anonymous>:1:1
+mynpk(1337);<br/>
+//=> Uncaught TypeError: Please enter a string!<br/>
+//    at mynpk (<anonymous>:2:41)<br/>
+//    at <anonymous>:1:1<br/>
 
 
-Thank you,
+Thank you,<br/>
 Arun Jacob
