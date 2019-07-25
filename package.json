@@ -1,0 +1,14 @@
+{
+  "name": "@jakes2255/mynpk",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "jakes2255/mynpk",
+  "main": "index.js",
+  "keywords": [
+    "mynpk",
+    "npm",
+    "package",
+    "jakes2255"
+  ]
+}
